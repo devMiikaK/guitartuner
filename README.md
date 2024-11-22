@@ -20,3 +20,5 @@ Suorita **main.py**
 ```bash
 python main.py
 ```
+
+![Screenshot](images/preview.png)
